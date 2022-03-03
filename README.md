@@ -4,8 +4,7 @@ I'm Rafael Alves,  I'm a Frontend Developer at Grupo Boticário, and I've been w
 
 Would you like to find me?
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/rbalves?style=social)](https://twitter.com/rbalves)
-[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/rbalves192/)
+[![Linkedin: rbalves](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rbalves192/)](https://www.linkedin.com/in/rbalves192/)
 
 ## ⚡ Technologies
 
