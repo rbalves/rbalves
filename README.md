@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rafael Alves, I'm a Software Engineer at Juntos Somos Mais, and I've been working in tech since 2014. I'm from Brazil, and I'm currently living in Curitiba.
+I'm Rafael Alves, I'm a Software Engineer at @juntossomosmais, and I've been working in tech since 2014. I'm from Brazil, and I'm currently living in Curitiba.
 
 Would you like to find me?
 
