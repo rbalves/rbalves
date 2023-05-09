@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá, me chamo Rafael e sou desenvolvedor front-end 👋
 
 Meu primeiro contato com desenvolvimento de software foi em 2008, no primeiro ano do ensino médio técnico.
 
